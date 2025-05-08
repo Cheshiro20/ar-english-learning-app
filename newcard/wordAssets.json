@@ -1,0 +1,143 @@
+[
+    {
+        "word": "population",
+        "modelName": "hourglass.usdz",
+        "audioName": "hourglass.mp3",
+        "meaning": "意味: 人口",
+        "hasAnimation": false
+    },
+    {
+        "word": "break",
+        "modelName": "direction.usdz",
+        "audioName": "direction.mp3",
+        "meaning": "意味: 休憩",
+        "hasAnimation": false
+    },
+    {
+        "word": "silent",
+        "modelName": "gramophone.usdz",
+        "audioName": "gramophone.mp3",
+        "meaning": "意味: 静かな",
+        "hasAnimation": false
+    },
+    {
+        "word": "couple",
+        "modelName": "catapult.usdz",
+        "audioName": "catapult.mp3",
+        "meaning": "意味: カップル、二人組",
+        "hasAnimation": false
+    },
+    {
+        "word": "warm",
+        "modelName": "chandelier.usdz",
+        "audioName": "chandelier.mp3",
+        "meaning": "意味: 暖かい",
+        "hasAnimation": false
+    },
+    {
+        "word": "cure",
+        "modelName": "obelisk.usdz",
+        "audioName": "obelisk.mp3",
+        "meaning": "意味: 治療する",
+        "hasAnimation": false
+    },
+    {
+        "word": "document",
+        "modelName": "tesseract.usdz",
+        "audioName": "tesseract.mp3",
+        "meaning": "意味: 文書",
+        "hasAnimation": false
+    },
+    {
+        "word": "future",
+        "modelName": "explode.usdz",
+        "audioName": "explode.mp3",
+        "meaning": "意味: 未来",
+        "hasAnimation": true
+    },
+    {
+        "word": "ground",
+        "modelName": "ground.usdz",
+        "audioName": "dinosaur.mp3",
+        "meaning": "意味: 地面",
+        "hasAnimation": true
+    },
+    {
+        "word": "request",
+        "modelName": "direction.usdz",
+        "audioName": "direction.mp3",
+        "meaning": "意味: 要求する",
+        "hasAnimation": false
+    },
+    {
+        "word": "sign",
+        "modelName": "direction.usdz",
+        "audioName": "direction.mp3",
+        "meaning": "意味: しるし、標識",
+        "hasAnimation": false
+    },
+    {
+        "word": "crime",
+        "modelName": "direction.usdz",
+        "audioName": "direction.mp3",
+        "meaning": "意味: 犯罪",
+        "hasAnimation": false
+    },
+    {
+        "word": "material",
+        "modelName": "direction.usdz",
+        "audioName": "direction.mp3",
+        "meaning": "意味: 材料、素材",
+        "hasAnimation": false
+    },
+    {
+        "word": "refuse",
+        "modelName": "direction.usdz",
+        "audioName": "direction.mp3",
+        "meaning": "意味: 拒否する",
+        "hasAnimation": false
+    },
+    {
+        "word": "dead",
+        "modelName": "direction.usdz",
+        "audioName": "direction.mp3",
+        "meaning": "意味: 死んだ",
+        "hasAnimation": false
+    },
+    {
+        "word": "guess",
+        "modelName": "direction.usdz",
+        "audioName": "direction.mp3",
+        "meaning": "意味: 推測する",
+        "hasAnimation": false
+    },
+    {
+        "word": "private",
+        "modelName": "direction.usdz",
+        "audioName": "direction.mp3",
+        "meaning": "意味: 私的な、個人的な",
+        "hasAnimation": false
+    },
+    {
+        "word": "already",
+        "modelName": "choice.usdz",
+        "audioName": "choice.mp3",
+        "meaning": "意味: すでに",
+        "hasAnimation": false
+    },
+    {
+        "word": "imagine",
+        "modelName": "experience.usdz",
+        "audioName": "experience.mp3",
+        "meaning": "意味: 想像する",
+        "hasAnimation": false
+    },
+    {
+        "word": "clothes",
+        "modelName": "difficult.usdz",
+        "audioName": "difficult.mp3",
+        "meaning": "意味: 衣類、服",
+        "hasAnimation": false
+    }
+]
+
